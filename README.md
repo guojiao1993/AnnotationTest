@@ -1,6 +1,8 @@
 # AnnotationTest
 
-基于注解的SpringMVC的HelloWorld项目
+基于注解配置的SpringMVC的HelloWorld项目
+
+需要配置好JRE和Tomcat，服务器运行后，输入 http://localhost:8080/SpringMVCTest/hello 进行测试
 
 使用Eclipse开发和测试
 
